@@ -1,0 +1,22 @@
+# Web scraping
+requests
+beautifulsoup4
+
+# NLP & preprocessing
+nltk
+
+# Data manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+wordcloud
+
+# Optional (if using ML models)
+scikit-learn
+tensorflow
+torch
+
+# For Jupyter notebooks
+jupyter

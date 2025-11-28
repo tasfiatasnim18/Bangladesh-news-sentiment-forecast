@@ -43,3 +43,24 @@ Predicts topic-specific conditions.
 
 Visualization:
 Generates WordClouds for overall and topic-specific headlines.
+
+# 📊 Example Output
+
+Overall Condition: Neutral / Positive / Negative
+Topic Conditions:
+Economic: Negative
+Crime: Negative
+Political: Neutral
+
+# 🚀Future Improvements
+
+Expand scraping to more news sources
+Include multi-lingual headlines (Bangla + English)
+Apply machine learning models for more accurate sentiment prediction
+Build a month-over-month trend dashboard for visualization
+
+# 📧 Contact
+
+For collaboration or feedback, feel free to reach out:
+Email: tasfia.tasnim508@gmail.com
+LinkedIn: https://www.linkedin.com/in/tasfiatasnim18/
